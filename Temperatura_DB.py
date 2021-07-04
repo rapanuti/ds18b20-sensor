@@ -25,7 +25,7 @@ def sensor2():
     return ds18b20
 
 def read(ds18b20):
-    location = '/sys/bus/w1/devices/28-3c01d0758c8e/w1_slave'
+    location = '/sys/bus/w1/devices/+direccion de carpeta+/w1_slave'
     tfile = open(location)
     text = tfile.read()
     tfile.close()
@@ -37,7 +37,7 @@ def read(ds18b20):
     return celsius, farenheit
 
 def read2(ds18b20):
-    location = '/sys/bus/w1/devices/28-3c01d0758ae7/w1_slave'
+    location = '/sys/bus/w1/devices/+direccion de carpeta+/w1_slave'
     tfile = open(location)
     text = tfile.read()
     tfile.close()
