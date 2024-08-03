@@ -13,3 +13,4 @@ Código en Python para leer los datos del sensor ds18b20, almacenar la Temperatu
 
 - [@rapanuti](https://github.com/rapanuti/)
 
+ YOLO
