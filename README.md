@@ -10,6 +10,7 @@ Código en Python para leer los datos del sensor ds18b20, almacenar la Temperatu
 
 ![Logo](https://cdn.sparkfun.com/assets/custom_pages/1/2/5/3/RPi-Logo-600.png)
 ## Authors
+Cambio de prueba
 
 - [@rapanuti](https://github.com/rapanuti/)
 
